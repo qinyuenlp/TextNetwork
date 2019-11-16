@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-
-# @Date   : 2019/10/31
 # @Author : QinYue <qinyuestatistics@163.com>
 
 import jieba
